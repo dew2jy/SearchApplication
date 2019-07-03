@@ -9,7 +9,10 @@ https://github.com/dew2jy/SearchApplication/raw/master/searchApplication.war
 
 다운 받은 뒤,
 java -jar searchApplication.war
-위 명령어로 실행
+위 명령어로 실행 후
+포트 8080으로 접속
+
+ex) http://localhots:8080
 
 * jar 확장자로 하려 했으나, jsp를 지원하지 않아 war로 빌드하였습니다. 아래 링크 글을 참조했습니다.
 https://regyu.tistory.com/3
